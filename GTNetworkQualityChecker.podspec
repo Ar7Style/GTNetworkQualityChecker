@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'GTNetworkQualityChecker'
   s.version          = '0.1.0'
-  s.summary          = 'Library that help check internet speed and quality of iOS device programmatically'
+  s.summary          = 'Library that help check internet quality of iOS device'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,18 +17,16 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'Library that help check internet speed and quality of iOS device programmatically'
 
   s.homepage         = 'https://github.com/Ar7Style/GTNetworkQualityChecker'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Ar7Style' => 'g.tareyev@pediatr247.ru' }
   s.source           = { :git => 'https://github.com/Ar7Style/GTNetworkQualityChecker.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  # s.social_media_url = 'https://twitter.com/TareyevG'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'GTNetworkQualityChecker/Classes/**/*'
   
@@ -38,5 +36,5 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  # s.dependency 'AFNetworking', '~> 3.0'
 end

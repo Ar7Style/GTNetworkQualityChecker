@@ -1,4 +1,5 @@
 # GTNetworkQualityChecker
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/Ar7Style/GTNetworkQualityChecker.svg?style=flat)](https://travis-ci.org/Ar7Style/GTNetworkQualityChecker)
 [![Version](https://img.shields.io/cocoapods/v/GTNetworkQualityChecker.svg?style=flat)](http://cocoapods.org/pods/GTNetworkQualityChecker)
@@ -27,3 +28,6 @@ Ar7Style, g.tareyev@pediatr247.ru
 ## License
 
 GTNetworkQualityChecker is available under the MIT license. See the LICENSE file for more info.
+=======
+Library that help check internet speed and quality of iOS device programmatically
+>>>>>>> d38107dd1a6326011da935f01293fe21f98b9a6b
