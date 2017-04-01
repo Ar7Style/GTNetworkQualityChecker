@@ -1,3 +1,21 @@
-PODFILE CHECKSUM: cce104c8bc7c8c5516c212598314646f63dffb1b
+PODS:
+  - GTNetworkQualityChecker (0.1.0)
+
+DEPENDENCIES:
+  - GTNetworkQualityChecker (from `https://github.com/Ar7Style/GTNetworkQualityChecker.git`)
+
+EXTERNAL SOURCES:
+  GTNetworkQualityChecker:
+    :git: https://github.com/Ar7Style/GTNetworkQualityChecker.git
+
+CHECKOUT OPTIONS:
+  GTNetworkQualityChecker:
+    :commit: 2a828670be2c7b89c48ffd4718d188ed6d795a21
+    :git: https://github.com/Ar7Style/GTNetworkQualityChecker.git
+
+SPEC CHECKSUMS:
+  GTNetworkQualityChecker: 8d23cf9ab3cc670f06e25f3f042cf4e4b8e8cf6e
+
+PODFILE CHECKSUM: d38114005dab05f95b961801d6c7df2893ef014c
 
 COCOAPODS: 1.0.1

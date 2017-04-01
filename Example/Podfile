@@ -1,8 +1,8 @@
-platform :ios, '8.0'
+platform :ios, '9.0'
 use_frameworks!
 
 target 'GTNetworkQualityChecker_Example' do
-     pod 'GTNetworkQualityChecker', :path => 'https://github.com/Ar7Style/GTNetworkQualityChecker.git'
+     pod 'GTNetworkQualityChecker', :git => 'https://github.com/Ar7Style/GTNetworkQualityChecker.git'
 
 target 'GTNetworkQualityChecker_Tests' do
     inherit! :search_paths

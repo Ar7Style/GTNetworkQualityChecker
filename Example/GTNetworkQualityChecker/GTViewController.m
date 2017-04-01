@@ -8,11 +8,11 @@
 
 #import "GTViewController.h"
 @import GTNetworkQualityChecker;
-//#import "G"
+//#import <GTNetworkQualityChecker/Reachability.h>
 
 @interface GTViewController ()
-//@property (nonatomic) Reachability *hostReachability;
-//@property (nonatomic) Reachability *internetReachability;
+@property (nonatomic) Reachability *hostReachability;
+@property (nonatomic) Reachability *internetReachability;
 @end
 
 @implementation GTViewController
