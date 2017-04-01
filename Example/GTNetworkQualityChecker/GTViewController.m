@@ -7,9 +7,12 @@
 //
 
 #import "GTViewController.h"
+@import GTNetworkQualityChecker;
+//#import "G"
 
 @interface GTViewController ()
-
+//@property (nonatomic) Reachability *hostReachability;
+//@property (nonatomic) Reachability *internetReachability;
 @end
 
 @implementation GTViewController
@@ -17,6 +20,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

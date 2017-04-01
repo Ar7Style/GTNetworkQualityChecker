@@ -1,16 +1,3 @@
-PODS:
-  - GTNetworkQualityChecker (0.1.0)
-
-DEPENDENCIES:
-  - GTNetworkQualityChecker (from `../`)
-
-EXTERNAL SOURCES:
-  GTNetworkQualityChecker:
-    :path: ../
-
-SPEC CHECKSUMS:
-  GTNetworkQualityChecker: 78618b5f3ee893fbd57d64405d1e5612de4c2fd9
-
-PODFILE CHECKSUM: c57ead7031d9d6c3fb28a27b5f12f034427b272a
+PODFILE CHECKSUM: cce104c8bc7c8c5516c212598314646f63dffb1b
 
 COCOAPODS: 1.0.1

@@ -1,6 +1,0 @@
-framework module GTNetworkQualityChecker {
-  umbrella header "GTNetworkQualityChecker-umbrella.h"
-
-  export *
-  module * { export * }
-}
